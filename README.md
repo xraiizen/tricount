@@ -40,6 +40,7 @@ Lancez l'API :
 ```bash
 
 npm start
+Y
 ```
 Accédez au dossier du frontend dans un second terminal :
 
