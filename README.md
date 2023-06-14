@@ -63,7 +63,7 @@ npm start
 ```bash
 Would you like to run the app on another port instead? » (Y/n) Y
 ```
-Fonctionnalités    
+## Fonctionnalités    
 Enregistrer un utilisateur : permet de créer un nouvel utilisateur avec un nom, un prénom et un email.    
 Enregistrer une dépense : permet à un utilisateur d'enregistrer une nouvelle dépense avec les détails tels que le montant, la date, le bénéficiaire et la catégorie.    
 Lister les dépenses : affiche la liste complète des dépenses, classées par date de la plus ancienne à la plus récente.    
@@ -71,7 +71,7 @@ Créer une catégorie de dépense : permet à un utilisateur de créer une nouve
 La balance comptable : affiche pour chaque utilisateur le montant qu'il a payé et le montant qui lui est dû.   
 
 
-Structure du projet   
+## Structure du projet   
 - `api/` : le dossier de l'API contenant les fichiers nécessaires pour le serveur Node.js.   
 - `frontend/` : le dossier du frontend contenant les fichiers de l'application React Native.   
 - `src/` : le dossier source commun contenant les modèles de données, les services et les composants réutilisables.    
