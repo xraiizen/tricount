@@ -1,0 +1,16 @@
+{
+    "name": "tricount_api",
+    "version": "1.0.0",
+    "description": "Tricount API",
+    "main": "app.js",
+    "scripts": {
+        "start": "node app.js"
+    },
+    "author": "Votre nom",
+    "license": "MIT",
+    "dependencies": {
+        "cors": "^2.8.5",
+        "express": "^4.17.1",
+        "mongoose": "^6.0.4"
+    }
+}
