@@ -4,8 +4,7 @@ Ce projet vise à créer une application permettant de gérer les dépenses d'un
 
 ## Technologies utilisées
 
-- **React Native** : un framework JavaScript pour le développement d'applications mobiles multiplateformes.
-- **React Navigation** : une bibliothèque de navigation pour React Native.
+- **React** : un framework JavaScript pour le développement d'applications.
 - **Axios** : une bibliothèque HTTP pour effectuer des requêtes depuis l'application.
 - **Node.js** : une plateforme permettant d'exécuter du code JavaScript côté serveur.
 - **Express** : un framework web minimaliste pour créer des API en Node.js.
