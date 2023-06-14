@@ -40,7 +40,6 @@ Lancez l'API :
 ```bash
 
 npm start
-Y
 ```
 Accédez au dossier du frontend dans un second terminal :
 
@@ -60,6 +59,9 @@ Lancez l'application :
 
 ```bash
 npm start
+```
+```bash
+Would you like to run the app on another port instead? » (Y/n) Y
 ```
 Fonctionnalités    
 Enregistrer un utilisateur : permet de créer un nouvel utilisateur avec un nom, un prénom et un email.    
